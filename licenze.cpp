@@ -18,4 +18,4 @@ int main(){
     else {
         cout << "You're eligible for the driving license " << name << " from " << city << "." << endl;
     }
-}
+} 
