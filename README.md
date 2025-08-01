@@ -1,4 +1,4 @@
-# 🌟 Learning-C- 🌟
+# 🌟 Learning-C++ 🌟
 
 [![GitHub stars](https://img.shields.io/github/stars/aneeshk888/Learning-C-.svg?style=social)](https://github.com/aneeshk888/Learning-C-) 
 [![GitHub forks](https://img.shields.io/github/forks/aneeshk888/Learning-C-.svg?style=social)](https://github.com/aneeshk888/Learning-C-)
