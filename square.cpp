@@ -6,11 +6,11 @@ int main(){
     cout<<"Square pattern problem"<<endl;
     cout<<"Enter the N value: ";
     cin>>n;
-    for (int i=1;i<=n;i++){
-        char ch='a';
-        for (int j=1;j<=n;j++){
-            cout<<ch;
-            ch+=1;
+    int num=1;
+    for (int i=0;i<n;i++){
+        for (int j=0;j<n;j++){
+            cout<<num<<" ";
+            num++;
         }
         cout<<endl;
     }
