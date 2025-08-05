@@ -7,8 +7,10 @@ int main(){
     cout<<"Enter the N value: ";
     cin>>n;
     for (int i=1;i<=n;i++){
+        char ch='A';
         for (int j=1;j<=n;j++){
-            cout<<j;
+            cout<<ch;
+            ch+=1;
         }
         cout<<endl;
     }
